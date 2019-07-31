@@ -1,3 +1,3 @@
 node 'centos-agent' {
-	include testrepos
+	include role::lamp 
 }
